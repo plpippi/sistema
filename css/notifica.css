@@ -1,0 +1,11 @@
+.notificacao{
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    padding-top: 1px;;
+    position: relative;
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+}
